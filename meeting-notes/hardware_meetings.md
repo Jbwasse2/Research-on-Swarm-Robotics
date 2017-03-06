@@ -1,3 +1,25 @@
+2017/03/06
+----------
+
+Alli: ordered electromagnet stuff on Friday, Li will be coming in on Thursday at
+2pm to work on programming microcontrollers / networking.
+
+Austin: presented 3D printer options, will upload to github
+
+John: will send CAD files today by 3pm. Is confused about git, Alli will send
+another tutorial.
+
+Chris: still working on python simulator, will try to have working prototype by
+next week.
+
+
+Goals/checkpoints:
+
+- one week: working microcontrollers
+- one month: working robot prototypes
+
+
+
 2017/02/24
 ----------
 
