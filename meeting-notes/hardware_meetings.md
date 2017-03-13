@@ -2,11 +2,15 @@
 ----------
 
 -   microcontroller update
+    -   need to figure out networking: Alli will talk to EngrIT and possibly do
+        some sketchy stuff with the router
 -   printer spreadsheet?
+    -   on github now
 -   python simulator?
+    -   looking good, hard modelling decisions
 -   will let you know when part is done
--   
--   ablasig
+
+Friday at 1:30pm: meeting
 
 2017/03/06
 ----------
