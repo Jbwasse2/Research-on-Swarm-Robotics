@@ -1,3 +1,13 @@
+2017/03/13
+----------
+
+-   microcontroller update
+-   printer spreadsheet?
+-   python simulator?
+-   will let you know when part is done
+-   
+-   ablasig
+
 2017/03/06
 ----------
 
