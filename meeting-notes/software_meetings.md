@@ -1,3 +1,26 @@
+2017/03/17
+==========
+
+Updates:
+-   part printed! Does it work??
+-   EngrIT recommends we register devices with IllinoisNet_Guest
+    -   I doubt this will work but we can try, just need to get MAC addresses
+-   Electromagnet stuff?
+-   Haskell graphs - action items
+    -   Generate graphs (all connected, none connected, various labelling options)
+    -   Match subgraph (efficiency?)
+
+What I will work on over break:
+-   connecting ESP8266s
+-   Maude implementation of graph rewriting
+
+Next hardware meeting:
+-   electromagnets
+-   iterating on attachment design
+
+Next software meeting:
+-   generating graphs in Haskell (Li?)
+
 2017/03/08
 ==========
 
