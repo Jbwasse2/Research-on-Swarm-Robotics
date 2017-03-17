@@ -3,6 +3,8 @@
 
 Updates:
 -   part printed! Does it work??
+    -   almost! Hole for post is too small. After drilling, we need a 14/64ths
+        drill bit to make it work.
 -   EngrIT recommends we register devices with IllinoisNet_Guest
     -   I doubt this will work but we can try, just need to get MAC addresses
 -   Electromagnet stuff?
@@ -19,7 +21,7 @@ Next hardware meeting:
 -   iterating on attachment design
 
 Next software meeting:
--   generating graphs in Haskell (Li?)
+-   report progress on generating graphs in Haskell
 
 2017/03/08
 ==========
