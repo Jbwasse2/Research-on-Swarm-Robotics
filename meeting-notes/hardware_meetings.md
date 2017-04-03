@@ -1,3 +1,13 @@
+2017-04-03
+----------
+
+-   need to submit print job today - I think we should add supports ourselves
+    -   new design will be finished Wed night
+-   no updates on microcontrollers (will get part today)
+-   python simulator is almost up and running (Chris will work on viz)
+-   magnets are working - strong local pull. will they ever connect?
+    -   maybe we should curve the outside of the attachments?
+
 2017/03/13
 ----------
 
