@@ -1,3 +1,16 @@
+2017-04-13
+==========
+
+This week, Li presented the example in Section IV. A of "Graph Grammars for Self
+Assembling Robotic Systems," which showed a conversion from a ternary rewrite
+rule to a set of binary rewrite rules. We discussed the subtleties in this
+conversion and the memory/state requirements of multi-node rewrites.
+
+Next week we will get updates on the Haskell and Maude simulation efforts, as
+well as the Python simulation (?)
+
+I feel like I said we'd do something else next week, cannot remember...
+
 2017/03/17
 ==========
 
