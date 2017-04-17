@@ -1,3 +1,13 @@
+2017-04-17
+----------
+
+-   no part yet - tomorrow or tuesday
+-   junwu is working on microcontrollers
+-   Chris is working on controller board for magnets
+-   Chris has made mucho progress on python simulator! Will port to pygame and
+    put it on the self-assembly github. Will also meet with John to do code
+    review / pair-programming
+
 2017-04-03
 ----------
 
