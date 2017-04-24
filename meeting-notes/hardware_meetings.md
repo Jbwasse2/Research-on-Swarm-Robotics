@@ -1,3 +1,18 @@
+2017-04-24
+----------
+
+-   Chris and Austin will be here over the summer! Will keep working on robots
+-   Chris could make electromagnets that are about half the weight
+-   Chris will make PCBs for controlling the electromagnets ($2-3 per chip for
+    10 chips) - could allow variable strength
+-   may need to buy long screws to hold attatchment in
+-   Alli will print ~12 attachment
+-   Austin has been doing some really cool research into passive attachments,
+    will make a write up for next week
+-   Alli will look into printing options (maybe use ECE lab)
+-   Chris has simulator on the back burner for now, will come back to it after
+    ordering PCBs
+
 2017-04-17
 ----------
 
@@ -5,7 +20,7 @@
 -   junwu is working on microcontrollers
 -   Chris is working on controller board for magnets
 -   Chris has made mucho progress on python simulator! Will port to pygame and
-    put it on the self-assembly github. Will also meet with John to do code
+    put it on the self-aSsembly github. Will also meet with John to do code
     review / pair-programming
 
 2017-04-03
