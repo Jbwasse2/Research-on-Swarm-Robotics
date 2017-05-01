@@ -1,3 +1,17 @@
+2017-05-01
+----------
+
+-   Chris has finished a first draft of the electromagnet controller board!!
+-   It's kind of big - check with John to make sure it will fit, make a groove
+    in the 3d printed part to hold it in place
+-   Alli has not printed anything yet - will hold off for next draft with chip
+    holder
+-   Alli feels that RPlab is our best bet for manufacturing lots of parts - not
+    the cheapest but it's close by and easy to submit orders to
+-   Chris can draft up a step-down circuit as well (12V series batteries -> 5V
+    for switch -> 3V for ESP8266)
+-   As soon as the board, part designs are done Alli can submit
+
 2017-04-24
 ----------
 
