@@ -1,3 +1,18 @@
+2017-05-15
+----------
+
+-   getting organized after finals
+-   Alli will be out of town May 18-28
+-   Chris will be back in a week, then going backpacking
+-   John will be in Spain for 8 weeks!
+-   board is 20x40mm: make a slot for the board in CAD. Chris will do this, will
+    talk to Alli about submitting for purchase
+-   Alli will submit board order today
+-   Austin: been researching connectors
+    -   hard to find papers
+    -   quantitative and qualitative comparision of connectors
+    -   will finish up by end of this week
+
 2017-05-01
 ----------
 
