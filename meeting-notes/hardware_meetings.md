@@ -1,3 +1,16 @@
+2017-06-09
+----------
+
+-   Chris: PCBs
+-   Chris: will work in lab in afternoons 2-5pm
+-   Chris will work on microcontrollers
+-   Austin will have class 1-5pm every day
+-   Austin will have CAD designs and passive connector report by next week
+-   tentatively 11am Friday meetings
+-   look into MEL training/printing
+-   goal is three robots by July 1
+-   will purchase filament for use in ECEB
+
 2017-05-15
 ----------
 
