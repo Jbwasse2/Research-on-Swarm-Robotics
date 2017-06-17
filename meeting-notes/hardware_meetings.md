@@ -1,3 +1,13 @@
+2017-06-16
+----------
+
+-   Chris has ESPs working over non-Illinois wifi
+-   Will contact engrIT about ports; if not, we will get a router
+-   Updated code a little
+-   Boards should ship next week
+-   Will need to buy filament for the long term - Chris will get recommendation
+    for department
+
 2017-06-09
 ----------
 
