@@ -1,3 +1,14 @@
+2017-06-23
+----------
+
+-   Innovation studio opens up next week
+-   need 10-15 minute training
+-   Chris will get more familiar with ROS
+-   filament: ABS or PLA will be fine
+-   Austin speaks Japanese now!! And is super busy with that
+-   Chris and Austin will get "trained" at innovation studio next week and
+    recommend filament to buy
+
 2017-06-16
 ----------
 
