@@ -1,3 +1,18 @@
+2017-07-07
+----------
+
+-   got filament; can print; want more filament to parallelize
+-   want camera for tracking weaselballs: found webcam in lab; need long USB
+    cable
+
+Action items:
+
+-   print as many attachment parts as possible
+-   print a few round bases to see if they fit
+-   try to fit everything together - stick on with velcro
+-   print some passive connectors (will put CAD on github)
+-   look into squishy material connectors!
+
 2017-06-23
 ----------
 
