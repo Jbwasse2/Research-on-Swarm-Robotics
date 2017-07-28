@@ -1,3 +1,25 @@
+2017-07-28
+----------
+
+-   ESPs are working!! Yay!!
+-   Weaselball setup is working for Yuliy, working on openCV code now
+-   We can 3d print *whatever we want*
+-   we have about 80% of our material left
+-   decide on orange for making CV easier
+-   got circuit boards for magnets, also have some handmade ones
+-   Chris and Austin gone Aug 5 - Aug 21: goal is to get new design by Aug 5
+-   Chris will set up box and design connector
+-   Austin will make base
+-   We need AA batteries (rechargable)
+
+Ideas for new design:
+
+Make attachments modular at attachment point, not at base
+If attachment points are connected to base, we don't need a top necessarily
+using "locking lug" / "rotating bolt" / "bayonet mount" connector
+"connector design for low tolerance production"
+how many attachments? six or eight - start with regular polygon for CAD
+
 2017-07-07
 ----------
 
